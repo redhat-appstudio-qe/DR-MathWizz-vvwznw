@@ -5,3 +5,5 @@ The purpose of this repo is to provide code with images that can be built from t
 The original repo is a full-stack math problem-solving application built as a teaching resource for a lecture series about the principles and main working methods in software quality assurance.
 
 If you're really, really, really curious, you can read about what the original product does in the original repo's README.
+
+<!-- DR test trigger moshekipod-backwards-compat-dr: 1783374601 -->
